@@ -1,4 +1,4 @@
-# Ameera-Protfolio
+# Ameera-Portfolio
 
 # 🌐 Ameera A — Personal Portfolio
 
